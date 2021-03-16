@@ -1,0 +1,4 @@
+name: ${project.name}
+version: git-${git.commit.id.describe-short}
+main: com.conaxgames.practice.Practice
+depend: [cSuite]
